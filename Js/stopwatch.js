@@ -49,4 +49,4 @@ console.log(sw)
 // sw.start()     to start the stopwatch
 // sw.stop()     to stop the stopwatch
 // sw.reset()     to reset the stopwatch
-// sw.duration()     to get total time duration of the stopwatch
+// sw.duration     to get total time duration of the stopwatch
