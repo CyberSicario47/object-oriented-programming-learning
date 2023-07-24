@@ -1,12 +1,12 @@
-import './App.css'
-import From from './Components/Form/From'
+import "./App.css";
+import { ReactQuery } from "./Components";
 function App() {
-
   return (
     <>
-      <From/>
+      <ReactQuery />
+
     </>
-  )
+  );
 }
 
-export default App
+export default App;
