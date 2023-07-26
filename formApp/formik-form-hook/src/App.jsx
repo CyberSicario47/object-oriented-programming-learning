@@ -17,6 +17,7 @@ function App() {
           <div className="w-56 bg-white shadow rounded">w-56</div>
           <div className="w-52 bg-white shadow rounded">w-52</div>
           <div className="w-48 bg-white shadow rounded">w-48</div>
+          update things
         </div>
         <div className="grid grid-cols-4 gap-2">
           <div className="bg-sky-50 aspect-square"></div>
